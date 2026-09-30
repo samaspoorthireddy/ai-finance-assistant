@@ -123,8 +123,6 @@ Ensure Python 3.10+ and Jupyter Notebook are installed on your system.
 
 **Sama Spoorthi Reddy**  
 - **GitHub:** [@samaspoorthireddy](https://github.com/samaspoorthireddy)  
-- **Role Target:** Special Engineer Trainee (Software Development / Data Science & ML)
-
 ---
 
 ## 📜 License
